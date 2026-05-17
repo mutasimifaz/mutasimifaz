@@ -21,7 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutasimifaz&layout=compact" alt="mutasimifaz" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mutasimifaz&show_icons=true&theme=radical" alt="mutasimifaz" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mutasimifaz&label=Profile%20views&color=0e75b6&style=flat" alt="mutasimifaz" /> </p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mutasimifaz&" alt="mutasimifaz" /></p>
